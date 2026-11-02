@@ -1,4 +1,5 @@
-# cse210-ww-student-template
-This is the starter code for students in the worldwide content version of CSE 210.
+CSE 210 – Programming with Classes
 
-This repository contains the starter code for many different projects. They are arranged folders by week. There is also an an empty sandbox project that can be used to play around with any concept you would like.
+Student: Clement Enukaorah
+
+This repository contains my CSE 210 programming exercises and learning activities. I am developing my skills in C# programming, problem-solving, and object-oriented programming.
